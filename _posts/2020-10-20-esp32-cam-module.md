@@ -1,3 +1,8 @@
+---
+title: "ESP32 Camera Setup"
+date: 2019-01-20
+---
+
 #  ESP32 Cam Module   
 
 ## Programming the board    
